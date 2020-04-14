@@ -1,0 +1,22 @@
+body {
+  background-color: #ff6f6847;
+}
+h1{color: #9a1ea9; font-size: 30px;}
+
+h3{color: #9a1ea9; font-size: 30px;}
+h4{color: #9a1ea9; font-size: 30px;}
+h5{color: #9a1ea9; font-size: 30px;}
+h2{color: #9a1ea9; font-size: 30px;}
+h6{color: #9a1ea9; font-size: 30px;}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+img {
+  height: 150px;
+  background-color:#9a1ea9;
+}
